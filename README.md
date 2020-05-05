@@ -1,6 +1,6 @@
 # flutternewsapp
 
-A flutter app that using BLoC pattern to get News API
+A flutter news app with BLoC architecture/pattern and rxdart to retrieve data from newsapi.org.
 
 ## Getting Started
 
