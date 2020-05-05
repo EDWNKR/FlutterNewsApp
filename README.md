@@ -2,7 +2,7 @@
 
 A flutter news app with BLoC architecture/pattern and rxdart to retrieve data from newsapi.org.
 
-#Screenshoot
+
 ![ScreenShot](https://github.com/EDWNKR/FlutterNewsApp/blob/master/lib/Screenshoot.png?raw=true)
 
 
